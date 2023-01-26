@@ -1,3 +1,3 @@
 # solarEnergyApp
 
-### -> This application keep going.
+### -> Progressing for this application keep going.
